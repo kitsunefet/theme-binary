@@ -1,9 +1,10 @@
 #cat
 {
-  background: url(http://fet.ninja/longcat.png) no-repeat;
-  background-size: 100%;
+  	background: url(http://fet.ninja/longcat.png) no-repeat;
+  	background-size: 100%;
 	position: absolute; 
 	bottom: 0px;
 	height: 621px;
 	width: 372px;
+	z-index: -1;
 }
