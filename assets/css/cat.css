@@ -1,6 +1,6 @@
 #cat
 {
-  background: url(longcat.png);
+  background: url(longcat.png) no-repeat;
 	position: absolute; 
 	bottom: 0px;
 }
